@@ -1,20 +1,52 @@
-body{
+body {
   text-align: center;
 }
 
-.container{
-background-color: lightgrey;
-max-width: 600px;
-padding-bottom: -20px;
+
+.container {
+  display: inline-block;
+  align-items: center;
+  width: 45%;
+  max-width: 500px;
 }
 
+#Layer_2 {
+  background-color: rgb(188, 188, 188);
+}
 
 polygon.selected {
   fill: #edecec;
 }
 
-#region-info{
-  text-align:left;
-  background-color: white;
-  padding: -5px;
+#region-info {
+  background-color: #edecec;
+  text-align: left;
+  padding: 10px;
 }
+
+#region-info table td:first-child {
+  font-weight: bold;
+}
+
+#region-info table td {
+  padding: 0.8vh;
+}
+
+#region-name {
+  font-size: 150%;
+}
+
+
+/* styles for moblie */
+@media only screen and (max-width: 1000px) {
+  body{
+    font-size: 200%;
+  }
+  
+  .container {
+    width: 100%; 
+    max-width: none;
+  }
+}
+
+
