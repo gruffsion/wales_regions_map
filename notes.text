@@ -1,0 +1,4 @@
+1. Create an array containing each region
+2. Create a new row on the table for each region with a user input data property and a colour selector
+3. Create events on the map that highlight regions on click
+4. Create a funciontality to export the map as jpeg, with option to include table or not

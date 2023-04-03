@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Isle of Anglesey",
+        "population": "67,403",
+        "welsh_lang": "57.2 "
+    },
+    {
+        "name": "Gwynedd",
+        "population": "117,789",
+        "welsh_lang": "65.4 "
+    },
+    {
+        "name": "Conwy",
+        "population": "111,724",
+        "welsh_lang": "27.4 "
+    },
+    {
+        "name": "Denbighshire",
+        "population": "90,527",
+        "welsh_lang": "24.6 "
+    },
+    {
+        "name": "Flintshire",
+        "population": "146,940",
+        "welsh_lang": "13.2 "
+    },
+    {
+        "name": "Wrexham",
+        "population": "129,425",
+        "welsh_lang": "12.9 "
+    },
+    {
+        "name": "Powys",
+        "population": "129,083",
+        "welsh_lang": "18.6 "
+    },
+    {
+        "name": "Ceredigion",
+        "population": "73,847",
+        "welsh_lang": "47.3 "
+    },
+    {
+        "name": "Pembrokeshire",
+        "population": "118,392",
+        "welsh_lang": "19.2 "
+    },
+    {
+        "name": "Carmarthenshire",
+        "population": "177,642",
+        "welsh_lang": "43.9 "
+    },
+    {
+        "name": "Swansea",
+        "population": "231,155",
+        "welsh_lang": "11.4 "
+    },
+    {
+        "name": "Neath Port Talbot",
+        "population": "135,278",
+        "welsh_lang": "15.3 "
+    },
+    {
+        "name": "Bridgend",
+        "population": "134,545",
+        "welsh_lang": "9.7 "
+    },
+    {
+        "name": "Vale of Glamorgan",
+        "population": "122,018",
+        "welsh_lang": "10.8 "
+    },
+    {
+        "name": "Cardiff",
+        "population": "332,273",
+        "welsh_lang": "11.1 "
+    },
+    {
+        "name": "Rhondda Cynon Taf",
+        "population": "225,555",
+        "welsh_lang": "12.3 "
+    },
+    {
+        "name": "Merthyr Tydfil",
+        "population": "56,623",
+        "welsh_lang": "8.9 "
+    },
+    {
+        "name": "Caerphilly",
+        "population": "171,972",
+        "welsh_lang": "11.2 "
+    },
+    {
+        "name": "Blaenau Gwent",
+        "population": "67,348",
+        "welsh_lang": "7.8 "
+    },
+
+    {
+        "name": "Torfaen",
+        "population": "87,844",
+        "welsh_lang": "9.8 "
+    },
+    {
+        "name": "Monmouthshire",
+        "population": "88,609",
+        "welsh_lang": "9.9 "
+    },
+    {
+        "name": "Newport",
+        "population": "139,849",
+        "welsh_lang": "9.3"
+    }
+
+
+
+]
